@@ -1,7 +1,6 @@
 # 🌤️ WeatherScope Pro
 
 > A professional, ML-powered Weather Forecasting System built with Python & Streamlit.  
-> Designed as a **resume-grade** full-stack data science project.
 
 ---
 
